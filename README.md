@@ -53,12 +53,6 @@ My current focus areas include:
 * AI-assisted developer productivity tools
 * Telegram bots and automated job scraping
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Se1dX&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
-
 ### 📫 Let's Connect
 
 * Telegram: [@hrddgiiyf](https://t.me/hrddgiiyf)
